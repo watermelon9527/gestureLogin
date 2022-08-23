@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B98AF97228B51AD100756C12 /* GestureCollectoinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98AF97128B51AD100756C12 /* GestureCollectoinView.swift */; };
 		B9A1DE4328B0C05000D98411 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A1DE4228B0C05000D98411 /* AppDelegate.swift */; };
 		B9A1DE4528B0C05000D98411 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A1DE4428B0C05000D98411 /* SceneDelegate.swift */; };
 		B9A1DE4728B0C05000D98411 /* GestureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A1DE4628B0C05000D98411 /* GestureViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B98AF97128B51AD100756C12 /* GestureCollectoinView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureCollectoinView.swift; sourceTree = "<group>"; };
 		B9A1DE3F28B0C05000D98411 /* gestureLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gestureLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9A1DE4228B0C05000D98411 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B9A1DE4428B0C05000D98411 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B9A1DE4228B0C05000D98411 /* AppDelegate.swift */,
 				B9A1DE4428B0C05000D98411 /* SceneDelegate.swift */,
 				B9A1DE4628B0C05000D98411 /* GestureViewController.swift */,
+				B98AF97128B51AD100756C12 /* GestureCollectoinView.swift */,
 				B9D4489C28B3C92E00378D13 /* LoginViewController.swift */,
 				B9A1DE4828B0C05000D98411 /* Main.storyboard */,
 				B9A1DE4B28B0C05300D98411 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				B9D4489D28B3C92E00378D13 /* LoginViewController.swift in Sources */,
 				B9A1DE4728B0C05000D98411 /* GestureViewController.swift in Sources */,
 				B9A1DE4328B0C05000D98411 /* AppDelegate.swift in Sources */,
+				B98AF97228B51AD100756C12 /* GestureCollectoinView.swift in Sources */,
 				B9A1DE4528B0C05000D98411 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
