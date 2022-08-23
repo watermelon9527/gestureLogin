@@ -42,7 +42,7 @@
 		B9A1DE3628B0C05000D98411 = {
 			isa = PBXGroup;
 			children = (
-				B9A1DE4128B0C05000D98411 /* gestureLogin */,
+				B9A1DE4128B0C05000D98411 /* GestureLogin */,
 				B9A1DE4028B0C05000D98411 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B9A1DE4128B0C05000D98411 /* gestureLogin */ = {
+		B9A1DE4128B0C05000D98411 /* GestureLogin */ = {
 			isa = PBXGroup;
 			children = (
 				B9A1DE4228B0C05000D98411 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				B9A1DE4D28B0C05300D98411 /* LaunchScreen.storyboard */,
 				B9A1DE5028B0C05300D98411 /* Info.plist */,
 			);
-			path = gestureLogin;
+			path = GestureLogin;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B9A1DE3A28B0C05000D98411 /* Build configuration list for PBXProject "gestureLogin" */;
+			buildConfigurationList = B9A1DE3A28B0C05000D98411 /* Build configuration list for PBXProject "GestureLogin" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -343,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B9A1DE3A28B0C05000D98411 /* Build configuration list for PBXProject "gestureLogin" */ = {
+		B9A1DE3A28B0C05000D98411 /* Build configuration list for PBXProject "GestureLogin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B9A1DE5128B0C05300D98411 /* Debug */,
