@@ -7,8 +7,21 @@
 
 import UIKit
 
+enum GesturePasswordType {
+    case setting
+    case doubleCheckSetting
+    case unlock
+}
+
 class GestureViewController: UIViewController {
 
+    
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
