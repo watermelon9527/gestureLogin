@@ -14,10 +14,10 @@ struct UserDefaultsWrapper <T> {
         case isOpen
         
         // String
-        case accessToken
+//        case accessToken
 
         //Int
-        case count
+//        case count
         
     }
     

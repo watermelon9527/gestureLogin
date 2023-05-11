@@ -8,7 +8,7 @@
 import Foundation
 struct Settings {
     
-    @UserDefaultsWrapper(key: .count) static var count: Int?
+    @UserDefaultsWrapper(key: .isOpen) static var isOpen: Int?
     
     
 }
